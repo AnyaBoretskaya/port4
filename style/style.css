@@ -1,0 +1,270 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Rubik', sans-serif;
+  font-size: 18px;
+}
+
+.button {
+  display: flex;
+  width: 100%;
+  height: auto;
+  background-color: #fffefe;
+}
+
+.button div {
+  padding: 20px;
+  margin: auto;
+  background-color: #f10b0b;
+ 
+  
+}
+
+.button a {
+  text-decoration: none;
+}
+
+.button a:visited {
+  color: #fffbfa;
+}
+
+/*
+    TASK1
+*/
+
+.task1 {
+  display: flex;
+}
+
+.outputtt {
+  height: auto;
+  width: 80%;
+  background-color: #0d0d0e;
+  padding-top: 40px;
+  padding-bottom: 133px;
+}
+
+#list div {
+  border: 1px solid #b12715;
+  font-size: 30px;
+  width: 100%;
+}
+
+.inputField {
+  height: 400px;
+  width: 800px;
+  background-color: #ffffff;
+  margin: auto;
+}
+
+.incut {
+  color: #ffffff;
+  height: auto;
+  width: 20%;
+  background-color: #6d1101;
+  padding-top: 40px;
+}
+
+.stats {
+  margin-top: 7%;
+  font-size: 20px;
+  height: 40px;
+  width: 60%;
+  background-color: #ffffff;
+  border: none;
+}
+
+
+
+.addButton {
+  margin-top: 7%;
+  font-size: 20px;
+  height: 40px;
+  width: 60%;
+  background-color: #ffffff;
+  border: none;
+}
+
+.chooseColor {
+  margin-top: 10px;
+}
+
+#colorText {
+  border: none;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  background-color: #ffffff;
+}
+
+#typedText {
+  margin-top: 5%;
+  font-size: 17px;
+  width: 60%;
+  height: 30px;
+  border: none;
+}
+
+.radioButton {
+  
+  cursor: pointer;
+}
+.radio{
+  display: inline-block;
+}
+
+/*
+    TASK2
+*/
+
+.fieldInput {
+  position: relative;
+}
+
+.fieldInput div {
+  position: absolute;
+  width: 100%;
+}
+
+.fieldInput {
+  margin: auto;
+  background-color: rgb(223, 220, 223);
+}
+
+#myLabels {
+  display: inline-block;
+  cursor: pointer;
+  margin: 0;
+  outline: 1px solid #070707;
+}
+
+#blocklight {
+  outline: 2px solid #0d0d0e;
+}
+
+.task2 {
+  display: flex;
+}
+
+.output {
+  height: auto;
+  width: 80%;
+  background-color: #6d0101;
+  padding-top: 40px;
+  padding-bottom: 133px;
+}
+
+#task2 {
+  height: 400px;
+  width: 800px;
+  background-color: #0c0c0c;
+  margin: auto;
+}
+
+.incut2 {
+  color: #ffffff;
+  height: auto;
+  width: 20%;
+  background-color: #050505;
+  padding-top: 40px;
+}
+
+.addShape {
+  margin-top: 7%;
+  font-size: 20px;
+  height: 40px;
+  width: 60%;
+  background-color: #ffffff;
+  border: none;
+}
+
+
+/*
+       TASK3
+*/
+
+#task3 {
+  height: 400px;
+  width: 800px;
+  background-color: #ffffff;
+  margin: auto;
+}
+
+#task3 div {
+  position: absolute;
+}
+
+.draggable {
+  cursor: pointer;
+}
+
+.task3 {
+  display: flex;
+}
+
+.outputt {
+  height: auto;
+  width: 80%;
+  background-color: #ad1111;
+  padding-top: 40px;
+  padding-bottom: 133px;
+}
+
+#task3 {
+  height: 400px;
+  width: 800px;
+  background-color: #0e0d0d;
+  margin: auto;
+}
+
+.incut3 {
+  color: #0e0d0d;
+  height: auto;
+  width: 20%;
+  background-color: #0d0d0e;
+  padding-top: 40px;
+}
+
+/*
+    TASK 4
+*/
+
+.fieldInput1 {
+  position: relative;
+}
+
+.fieldInput1 div {
+  position: absolute;
+  width: 100%;
+}
+
+.fieldInput1 {
+  margin: auto;
+  background-color: #050505;
+}
+
+
+.task4 {
+  display: flex;
+  overflow: hidden;
+}
+
+.output1 {
+   height: auto;
+  width: 100%;
+}
+
+#task4 {
+  width: 100%;
+  height: 600px;
+  margin: auto;
+}
+
+.addShape1 {
+  margin-top: 7%;
+  font-size: 20px;
+  height: 40px;
+  width: 60%;
+  background-color: #ffffff;
+  border: none;
+}
